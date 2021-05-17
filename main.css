@@ -1,0 +1,23 @@
+body {
+    display: flex;
+}
+.drum {
+    background-position: bottom;
+    justify-content: space-around;
+    flex: 1 1 200px;
+    align-items: center;
+    background-repeat: space;
+    background-image: url('https://images.unsplash.com/photo-1598515751039-5b58e4f5f6be?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=401&q=80');
+}
+h2 {
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding: 5px;
+    margin: auto;
+    align-items: flex-end;
+    justify-content: right;
+    flex: 1 2 10px;
+    border: 2px solid black;
+    
+}
